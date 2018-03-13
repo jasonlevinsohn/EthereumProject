@@ -1,0 +1,11 @@
+{
+  "name": "ethereumproject",
+  "version": "1.0.0",
+  "description": "#### Links * [Stephens Github Project](https://github.com/StephenGrider/EthereumCasts) * [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf) * [Ethereum White Paper](http://web.archive.org/web/20131228111141/http://vbuterin.com/ethereum.html) * [Ethereum Average BlockTime Chart](https://etherscan.io/chart/blocktime) * [Remix Editor for Solidity](remix.ethereum.org) * [Get Rinkbey Ether](faucet.rinkeby.io)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
