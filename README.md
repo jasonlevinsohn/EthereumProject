@@ -18,3 +18,6 @@
 * Add Metamax as a Chrome Extension and create a password
 * We will be using the Rinkeby Test Network for development
 * 'Nonce' stands for 'nonsense', or number of transactions that have ever been made. Why? To win Bitcoin mining.
+
+### Getting Started
+* Install the Solidity Compiler `npm install --save solc`

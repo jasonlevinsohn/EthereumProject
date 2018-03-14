@@ -1,11 +1,17 @@
 {
   "name": "ethereumproject",
   "version": "1.0.0",
-  "description": "#### Links * [Stephens Github Project](https://github.com/StephenGrider/EthereumCasts) * [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf) * [Ethereum White Paper](http://web.archive.org/web/20131228111141/http://vbuterin.com/ethereum.html) * [Ethereum Average BlockTime Chart](https://etherscan.io/chart/blocktime) * [Remix Editor for Solidity](remix.ethereum.org) * [Get Rinkbey Ether](faucet.rinkeby.io)",
+  "description": "Ethereum and Solidity Test Project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "6.1.0",
+    "mocha": "5.0.4",
+    "solc": "0.4.21",
+    "web3": "1.0.0-beta.26"
+  }
 }
